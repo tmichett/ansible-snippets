@@ -1,11 +1,9 @@
-# Stephane ROBERT Ansible Core Snippets for Visual Studio Code
+# Ansible Core Snippets for Visual Studio Code (forked from https://github.com/stephrobert/ansible-snippets)
 
 This Visual Studio Code extension provides snippets to help you write Ansible code faster.
 It works like usual autocomplete : start typing to have suggestions or press 'CTRL+space' to force it.
 
-You may find DevOps tips on my [own blog](https://blog.stephane-robert.info/).
-
-![ansible snippets vscode](https://github.com/stephrobert/ansible-snippets/raw/main/img/sr-ansible-snippet.gif)
+![ansible snippets vscode](https://github.com/tmichett/ansible-snippets/raw/main/img/sr-ansible-snippet.gif)
 
 **I'll add more snippets in a few days!!**
 
