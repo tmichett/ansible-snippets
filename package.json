@@ -1,13 +1,14 @@
 {
-  "name": "sr-ansible-snippets",
-  "displayName": "Ansible Core Snippets",
-  "description": "Stephane ROBERT Ansible Core Snippets for VScode",
-  "version": "0.2.31",
+  "name": "tm-ansible-snippets",
+  "displayName": "Ansible Core and Red Hat Collection Snippets",
+  "description": "Travis Michette Ansible Snippets for VScode",
+  "version": "0.0.2",
   "engines": {
-    "vscode": "^0.10.5"
+    "vscode": "^1.28.0"
   },
   "icon": "img/asr.png",
-  "publisher": "srobert0560",
+  "publisher": "TravisMichette",
+  "repository": "https://github.com/tmichett/ansible-vscode",
   "categories": [
     "Snippets"
   ],
